@@ -31,8 +31,8 @@ The following in-memory users are configured:
 | Username | Password | Role     |
 |----------|----------|----------|
 | raja     | rani     | CUSTOME  |
-| Shakti   | hyd      | MANAGER  |
-| nitin    | hyd      | VISITOR  |
+| rani  | stata     | MANAGER  |
+| niya   | vyd    | VISITOR  |
 
 
 
