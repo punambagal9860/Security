@@ -55,6 +55,7 @@ The following in-memory users are configured:
 3.Thymeleaf (for views)
 
 4.Maven
+
 📄 License
 This project is licensed under the MIT License.
 
